@@ -101,9 +101,9 @@ background-position: center center;
 @media(max-width:1000px){
 
 	p{
-	font-size: 25px;
+	font-size: 35px;
 }
 	span{
-	font-size: 65px;
+	font-size: 75px;
 }
 }
