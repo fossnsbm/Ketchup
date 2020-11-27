@@ -97,3 +97,13 @@ background-position: center center;
 		font-size: 35px;
 }
 }
+
+@media(max-width:1000px){
+
+	p{
+	font-size: 25px;
+}
+	span{
+	font-size: 65px;
+}
+}
